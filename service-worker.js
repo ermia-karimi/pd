@@ -1,8 +1,8 @@
 const CACHE_NAME = 'snap2pdf';
 const urlsToCache = [
-    'index3.html',
+    'index.html',
     'style.css',
-    'app6.js'
+    'app.js'
 ];
 
 self.addEventListener('install', event => {
